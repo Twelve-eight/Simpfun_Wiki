@@ -104,9 +104,9 @@ minecraft服务器中，玩家首次连入时会由服务器自动生成一个`u
 
 此文件用于缓存玩家的UUID（唯一标识符）和用户名的映射关系。这个文件主要用于加速玩家登录过程。因此其并不会保存玩家的数据。
 
-<!--你问我方法A去哪了？不知道（逃>-->
+{/*你问我方法A去哪了？不知道（逃>*/}
 
-<!-- 以下是原本的`usercache.json`中的一段数据，我们需要把玩家id为`kawaii_Elaina`的数据迁移给`Twelve_eight`。
+{/* 以下是原本的`usercache.json`中的一段数据，我们需要把玩家id为`kawaii_Elaina`的数据迁移给`Twelve_eight`。
 
 ```
 {"name":"kawaii_Elaina","uuid":"78a610e7-9107-4653-94b6-0a366ea5b950","expiresOn":"2023-12-27 00:11:19 +0800"},{"name":"Twelve_eight","uuid":"0b881575-595b-4869-b555-4263433925a0","expiresOn":"2023-12-25 13:32:10 +0800"}
@@ -130,7 +130,7 @@ minecraft服务器中，玩家首次连入时会由服务器自动生成一个`u
 {"name":"Twelve_eight","uuid":"78a610e7-9107-4653-94b6-0a366ea5b950","expiresOn":"2023-12-25 13:32:10 +0800"}
 ```
 
-此时，玩家id为`Twelve_eight`的玩家再次连入游戏，他的玩家数据将使用原本`kawaii_Elaina`的数据。 -->
+此时，玩家id为`Twelve_eight`的玩家再次连入游戏，他的玩家数据将使用原本`kawaii_Elaina`的数据。 */}
 
 ### 方法2：修改playerdata文件夹
 
@@ -186,7 +186,7 @@ minecraft服务器中，玩家首次连入时会由服务器自动生成一个`u
     点击展开图片
   </summary>
 
-![zeruo!](/img/pages/xiangzengxiaopixuanzhan.png)
+![zeruo!](/img/pages/xiangzengxiaopixuanzhan.jpg)
 
 </details>
 

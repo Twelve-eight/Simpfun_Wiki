@@ -2,7 +2,7 @@
 title: 更改motd和图标来美化服务器
 ---
 
-<!--玩原神玩的-->
+{/*玩原神玩的*/}
 
 :::info
 
@@ -40,7 +40,6 @@ MiniMOTD 是一个基本的 MOTD 插件，兼容 Minecraft 1.8 以上的旧版�
 
 插件可以增加RGB颜色、添加渐变色等。
 
-你要使用教程？我不会，所以没有。自己看[mcbbs上的使用教程](https://www.mcbbs.net/thread-1075003-1-1.html)去。
 
 ### ColorMOTD
 

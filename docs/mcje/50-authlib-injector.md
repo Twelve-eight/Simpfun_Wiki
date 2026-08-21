@@ -50,9 +50,7 @@ title: 进阶文档：使用第三方验证服务器登录
 
 注：高版本forge服务器启动游戏是运行一个txt文件中的指令。请在`start.sh`中找到该文件并在txt内配置。
 
-如果你不想自己配置命令，可以使用这个[我的世界服务器启动命令生成器](https://deploy-preview-60--lovely-jalebi-5579a8.netlify.app/minecraftbat)
-
-:::
+如果你不想自己配置命令，可以使用这个[我的世界服务器启动命令生成器](/MinecraftBat)
 
 下面是一个服务器启动命令示例，它来源于[自定义教程](/docs/mcje/500-customization.md)
 
@@ -122,11 +120,10 @@ ${openjdk17} -Xms1024M -Xmx${maxmem}M -javaagent:authlib-injector-1.2.4.jar=http
 
 1.将红框内的按钮直接拖入HMCL中，在弹出的窗口中选择“完成”
 ![Twelve你AuthlibInjector-2.png的名字都打错了](/img/pages/AuthlibInjector-3.png)
-<!--好好好，你人还挺好的嘞-->
+{/*好好好，你人还挺好的嘞*/}
 2.点击HMCL左侧的`账户`，在二级页面的左侧选择`LittleSkin`，输入你的用户名和密码进行登录
 ![我给改回来了](/img/pages/AuthlibInjector-4.png)     
-<!--原神启动-->
-<!---->
+{/*原神启动*/}
 3.登录完成后选择一个角色，然后你就可以开始游戏辣
 
 ### BakaXL 3.x
@@ -140,9 +137,9 @@ ${openjdk17} -Xms1024M -Xmx${maxmem}M -javaagent:authlib-injector-1.2.4.jar=http
 3.连续点击“游戏启动模式”三次，切换到外置登录，在验证服务器处输入`https://littleskin.cn/api/yggdrasil`，在下方输入你的邮箱和密码，点击`进行验证并返回`
 ![Never gonna let you down](/img/pages/AuthlibInjector-7.png)
 ![Never gonna run around and desert you](/img/pages/AuthlibInjector-8.png)
-<!--Never gonna make you cry-->
-<!--Never gonna say good bye-->
-<!--Never gonna tell a lie and hurt you-->
+{/*Never gonna make you cry*/}
+{/*Never gonna say good bye*/}
+{/*Never gonna tell a lie and hurt you*/}
 4.此时它会提示你选择一个角色，选择你需要登录的角色即可
 
 ### BakaXL 2.x

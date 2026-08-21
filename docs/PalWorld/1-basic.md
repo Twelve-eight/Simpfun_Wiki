@@ -52,5 +52,5 @@ title: 社群服务器
 我不是很想再说一遍了，直接放图。
 
 顺便给一下图中文章的原链接:[https://www.bilibili.com/read/cv30007676/](https://www.bilibili.com/read/cv30007676/)
-<!-- 我也不清楚这给了个什么逆天双重恋接。哦恋爱循环连接真好看-->
+{/* 我也不清楚这给了个什么逆天双重恋接。哦恋爱循环连接真好看*/}
 ![唉，水pr水commit](../../static/img/pages/PALbasic-2.png)
