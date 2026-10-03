@@ -28,3 +28,23 @@
 ## LICENSE
 
 [MIT](https://github.com/ZengXiaoPi/Simpfun_Wiki/blob/main/LICENSE)
+
+## 本地开发
+
+环境要求：Node.js 20 或更高版本（推荐 LTS）。
+
+```bash
+# 安装依赖
+npm install
+
+# 启动本地开发服务器（默认 http://localhost:3000）
+npm start
+
+# 构建生产版本到 build/ 目录
+npm run build
+
+# 本地预览构建产物
+npm run serve
+```
+
+构建时启用了断链检查（`onBrokenLinks` / `onBrokenMarkdownLinks` 均为 `throw`），任何死链都会导致构建失败，请在提交前确认链接可用。

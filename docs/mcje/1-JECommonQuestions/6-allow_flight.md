@@ -16,7 +16,7 @@ title: 启用飞行
 
 **如果您的服务端不是简幻欢预设，请接着往下看。**
 
-![好耶](/img/pages/MCJE-allowflight-1.png)
+![好耶](/img/pages/MCJE-allowflight-1.jpg)
 
 ## 关闭自带的飞行检测
 

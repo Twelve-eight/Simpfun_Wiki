@@ -52,7 +52,7 @@ Simpfun Wiki仅作为推荐用途推荐这些插件，编辑者不保证可能�
 
 下载链接：
 
-[Mcbbs](https://search.mcbbs.net/thread-972589-1-1.html) | [123云盘下载](https://www.123pan.com/s/Nh4zVv-BjOAH.html)
+[123云盘下载](https://www.123pan.com/s/Nh4zVv-BjOAH.html)
 
 -----
 
@@ -80,7 +80,7 @@ Simpfun Wiki仅作为推荐用途推荐这些插件，编辑者不保证可能�
 
 下载链接：
 
-[MCBBS(介绍帖)](https://www.mcbbs.net/thread-1471495-1-1.html)|[Github(下载地址)](https://github.com/HaHaWTH/AuthMeReReloaded)
+[Github(下载地址)](https://github.com/HaHaWTH/AuthMeReReloaded)
 
 -----
 
@@ -92,7 +92,7 @@ Simpfun Wiki仅作为推荐用途推荐这些插件，编辑者不保证可能�
 
 介绍：开启[mobGriefing](1-JECommonQuestions/7-mobGriefing.md)后村民无法种地，不开启怕苦力怕**爆炸**？这款插件会帮你解决你的痛处！
 
-下载链接：[Mcbbs](https://www.mcbbs.net/thread-1150139-1-1.html) | [GitHub](https://github.com/4o4E/Boom/releases)
+下载链接：[GitHub](https://github.com/4o4E/Boom/releases)
 
 -----
 
@@ -112,7 +112,7 @@ Simpfun Wiki仅作为推荐用途推荐这些插件，编辑者不保证可能�
 
 下载链接：
 
-[Mcbbs](https://www.mcbbs.net/thread-72515-1-1.html) | [SpigotMC](https://www.spigotmc.org/resources/coreprotect.8631/)
+[SpigotMC](https://www.spigotmc.org/resources/coreprotect.8631/)
 
 -----
 
@@ -147,7 +147,7 @@ Simpfun Wiki仅作为推荐用途推荐这些插件，编辑者不保证可能�
 
 下载链接：
 
-[GitHub](https://github.com/Iseason2000/DeEnchantment/releases) | [Mcbbs](https://www.mcbbs.net/thread-1198268-1-1.html)
+[GitHub](https://github.com/Iseason2000/DeEnchantment/releases)
 
 -----
 
@@ -161,7 +161,7 @@ Simpfun Wiki仅作为推荐用途推荐这些插件，编辑者不保证可能�
 
 下载链接：
 
-[官网（下载时需要代理Github）](https://essentialsx.net/downloads.html) | [MCBBS搬运帖](https://www.mcbbs.net/thread-1369748-1-1.html)
+[官网（下载时需要代理Github）](https://essentialsx.net/downloads.html)
 
 -----
 
@@ -180,7 +180,7 @@ Simpfun Wiki仅作为推荐用途推荐这些插件，编辑者不保证可能�
 :::
 
 下载链接：
-[MCBBS搬运帖](https://www.mcbbs.net/thread-1075003-1-1.html) | [SpigotMC](https://www.spigotmc.org/resources/minimotd-motd-plugin-with-rgb-gradients.81254/)
+[SpigotMC](https://www.spigotmc.org/resources/minimotd-motd-plugin-with-rgb-gradients.81254/)
 
 -----
 
@@ -211,13 +211,13 @@ Simpfun Wiki仅作为推荐用途推荐这些插件，编辑者不保证可能�
 
 :::warning 提示
 
-Multiverse-Core仅提供基础的多世界功能，需要拓展功能请点击下方链接跳转至MCBBS论坛查看！   
-[Multiverse-Portals](https://www.mcbbs.net/thread-1413461-1-1.html)(多世界传送门) | [Multiverse-Inventories](https://www.mcbbs.net/thread-909834-1-1.html)(多世界背包隔离) | [Multiverse-NetherPortals](https://www.mcbbs.net/thread-1034491-1-1.html)(多世界下界隔离)
+Multiverse-Core仅提供基础的多世界功能，需要拓展功能请点击下方链接查看！   
+[Multiverse-Portals](https://dev.bukkit.org/projects/multiverse-portals)(多世界传送门) | [Multiverse-Inventories](https://dev.bukkit.org/projects/multiverse-inventories)(多世界背包隔离) | [Multiverse-NetherPortals](https://dev.bukkit.org/projects/multiverse-netherportals)(多世界下界隔离)
 
 :::
 
 下载链接：
-[MCBBS搬运帖](https://www.mcbbs.net/thread-1016455-1-1.html) | [DevBukkit](https://dev.bukkit.org/projects/multiverse-core)
+[DevBukkit](https://dev.bukkit.org/projects/multiverse-core)
 
 -----
 
@@ -236,8 +236,7 @@ Multiverse-Core仅提供基础的多世界功能，需要拓展功能请点击�
 
 :::
 
-下载链接：
-[MCBBS搬运帖](https://www.mcbbs.net/thread-631343-1-1.html) | [官方免费版](https://zrips.net/Residence/) | [付费版下载地址(10欧元)](https://www.spigotmc.org/resources/residence-1-7-10-up-to-1-10.11480/)
+[官方免费版](https://zrips.net/Residence/) | [付费版下载地址(10欧元)](https://www.spigotmc.org/resources/residence-1-7-10-up-to-1-10.11480/)
 
 -----
 
@@ -251,8 +250,7 @@ Multiverse-Core仅提供基础的多世界功能，需要拓展功能请点击�
 具体内容请去MCBBS搬运帖查看。  
 
 下载链接：
-[MCBBS搬运帖](https://www.mcbbs.net/thread-805404-1-1.html) | [SpigotMC](https://www.spigotmc.org/resources/skinsrestorer.2124/)
-
+[SpigotMC](https://www.spigotmc.org/resources/skinsrestorer.2124/)
 -----
 
 ### ViaBackwards
@@ -297,9 +295,8 @@ Multiverse-Core仅提供基础的多世界功能，需要拓展功能请点击�
 
 下载链接：
 
-[MCBBS(介绍帖)](https://www.mcbbs.net/thread-1023597-1-1.html)|[SpigotMC(下载)](https://www.spigotmc.org/resources/viaversion.19254/)
 
-:::info 提示
+[SpigotMC(下载)](https://www.spigotmc.org/resources/viaversion.19254/)
 
 ViaVersion仅提供让高版本客户端进入低版本服务器的功能，需要低版本客户端进入高版本服务器的话需要使用ViaBackwards和ViaRewind！
 
@@ -318,9 +315,7 @@ ViaVersion仅提供让高版本客户端进入低版本服务器的功能，需�
 
 :::caution
 
-Vault只提供功能支持，具体的功能实现需要额外的插件（[这是一个示例插件](https://www.mcbbs.net/thread-962904-1-1.html)）！    
-
-:::
+Vault只提供功能支持，具体的功能实现需要额外的插件！    
 
 下载链接：  
 [SpigotMC](https://www.spigotmc.org/resources/vault.34315/)  
@@ -334,30 +329,30 @@ Vault只提供功能支持，具体的功能实现需要额外的插件（[这�
 标签：`管理` `安全` `信息`  
 
 介绍：WorldEdit ，中文名一般译为“创世神”插件，为Minecraft中的十分易用的内建于游戏中的世界编辑器，多人游戏与单人游戏皆可使用。    
-更多信息请去MCBBS搬运帖查看。
+更多信息请前往官方页面查看。
 
 :::tip
 
-1.12及以下版本请去MCBBS搬运帖寻找旧版本下载使用！
+1.12及以下版本请在CurseForge页面寻找旧版本下载使用！
 
 :::         
 
 下载链接：
-[MCBBS搬运帖](https://www.mcbbs.net/thread-68815-1-1.html) | [CurseForge](https://dev.bukkit.org/projects/worldedit)
+[CurseForge](https://dev.bukkit.org/projects/worldedit)
 
 -----
   
-  ### ClearEntity  
+### EzClean ⭐
 
-版本：全版本  
+版本：1.7.2——最新版
 
-标签：`管理` `管理` `实体`  
+标签：`管理` `实体` `优化`
 
 介绍：
 - 自定义间隔多少时间清理某些实体
-- 自定义清理公告通知消息和到几个时间段的提示
+- 自定义清理公告通知消息和倒计时提示
 - 可查看世界里有哪些实体存在和具体数量
-    
+
 :::warning 警告
 
 任何此类的清理实体的Bukkit插件，对混合端的mod实体清理兼容性较差，使用时应尽量选择同类mod或采用其它方案！
@@ -365,7 +360,7 @@ Vault只提供功能支持，具体的功能实现需要额外的插件（[这�
 :::         
 
 下载链接：
-[MCBBS](https://www.mcbbs.net/thread-723356-1-1.html)
+[Modrinth](https://modrinth.com/plugin/ezclean) | [GitHub](https://github.com/ez-plugins/EzClean)
 
 -----
 
@@ -462,19 +457,6 @@ API版本：8,10
 
 下载链接：  
 [Sponge Ore](https://ore.spongepowered.org/Semenkovsky_Ivan/CommandPack)
-
------
-
-### MusicTogether
-
-API版本：7.2
-
-标签：`娱乐` `音乐`
-
-介绍：可以看作是AllMusic的Sponge版。支持网易云等平台点歌。**需要客户端模组配合。**
-
-下载链接：  
-[mcbbs](https://www.mcbbs.net/thread-993146-1-1.html)
 
 -----
 

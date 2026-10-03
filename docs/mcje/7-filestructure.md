@@ -192,11 +192,55 @@ java -server -Xms1024m -Xmx4096M @libraries/net/neoforged/neoforge/20.2.86/win_a
 
 ### CatServer
 
-待补充
+CatServer 是一个同时支持 Forge 模组与 Bukkit 插件的混合端。与 Arclight 端类似，其文件结构基本可以看作 Vanilla 端与 Forge 端的叠加，再额外加上 Bukkit 系的插件目录：
 
+与Vanilla端不同的地方如下所示（斜体表示不重要）：
+
+| 文件或文件夹 | 说明 |
+| :--- | :--- |
+| config | (来自Forge)存储FML和各个模组(mod)的配置文件的目录。|
+| defaultconfigs | (来自Forge)通常包含了模组(mod)的默认配置文件。这些文件是模组作者提供的初始配置，用于确保模组在首次安装时有一个合理的默认设置。 |
+| mods | (来自Forge)存放mod本体的文件夹。 |
+| plugins | (来自Spigot)存放插件本体以及插件配置、数据等的文件夹。插件本体直接放入此文件夹即可。 |
+| worlds | **与Vanilla端保持一致。** |
+| bukkit.yml | (来自Spigot)Bukkit系服务端的配置文件之一，用于配置一些基本的服务器设置。<br/>所有CraftBukkit的分支都有此配置文件。 |
+| *commands.yml* | (来自Spigot)一个配置文件，其中包含 CraftBukkit 服务器的自定义别名和命令方块覆盖。<br/> *PS：正常情况下你大概率用不到，甚至这东西都是去[互联网档案馆](https://web.archive.org/web/20160325102040/http://wiki.bukkit.org/Commands.yml)查的资料。* |
+| *help.yml* | (来自Spigot)这是Bukkit的帮助配置文件。<br/>默认情况下，您不需要修改此文件。所有插件命令的帮助主题由插件自动提供。<br/>*PS：正常情况下你大概率也用不到，因为现在的插件都会提供对应的帮助。*|
+| *permissions.yml* | (来自Spigot)用于定义玩家和用户组的权限。<br/>*PS：还是个花瓶，有LP的当个摆设就好。*|
+| spigot.yml | (来自Spigot)Spigot系服务端软件的配置文件之一，用于配置一些与服务器性能和行为相关的设置。<br/>从Spigot分支出的服务端均有此文件。 |
+| server-x.x.x.jar（或类似命名） | CatServer端的启动核心，启动命令中的`-jar`参数指向此文件。具体文件名以你实际使用的构建版本为准。 |
+
+:::warning 警告
+
+混合Forge模组和Bukkit插件同样存在稳定性风险，部分模组或插件可能无法正常工作，遇到问题请先排查兼容性。
+
+:::
 ### Mohist
 
-待补充
+Mohist 同样是一个同时支持 Forge 模组与 Bukkit 插件的混合端，文件结构与 CatServer 类似，基本可以看作 Vanilla 端与 Forge 端的叠加，再额外加上 Bukkit 系的插件目录：
+
+与Vanilla端不同的地方如下所示（斜体表示不重要）：
+
+| 文件或文件夹 | 说明 |
+| :--- | :--- |
+| config | (来自Forge)存储FML和各个模组(mod)的配置文件的目录。|
+| defaultconfigs | (来自Forge)通常包含了模组(mod)的默认配置文件。这些文件是模组作者提供的初始配置，用于确保模组在首次安装时有一个合理的默认设置。 |
+| mods | (来自Forge)存放mod本体的文件夹。 |
+| plugins | (来自Spigot)存放插件本体以及插件配置、数据等的文件夹。插件本体直接放入此文件夹即可。 |
+| worlds | **与Vanilla端保持一致。** |
+| bukkit.yml | (来自Spigot)Bukkit系服务端的配置文件之一，用于配置一些基本的服务器设置。<br/>所有CraftBukkit的分支都有此配置文件。 |
+| *commands.yml* | (来自Spigot)一个配置文件，其中包含 CraftBukkit 服务器的自定义别名和命令方块覆盖。<br/> *PS：正常情况下你大概率用不到，甚至这东西都是去[互联网档案馆](https://web.archive.org/web/20160325102040/http://wiki.bukkit.org/Commands.yml)查的资料。* |
+| *help.yml* | (来自Spigot)这是Bukkit的帮助配置文件。<br/>默认情况下，您不需要修改此文件。所有插件命令的帮助主题由插件自动提供。<br/>*PS：正常情况下你大概率也用不到，因为现在的插件都会提供对应的帮助。*|
+| *permissions.yml* | (来自Spigot)用于定义玩家和用户组的权限。<br/>*PS：还是个花瓶，有LP的当个摆设就好。*|
+| spigot.yml | (来自Spigot)Spigot系服务端软件的配置文件之一，用于配置一些与服务器性能和行为相关的设置。<br/>从Spigot分支出的服务端均有此文件。 |
+| user_jvm_args.txt | (来自Forge)Forge系服务端构建时生成的JVM参数配置文件，可以通过它为服务端配置内存大小等启动参数。 |
+| server-x.x.x-bin.jar（或类似命名） | Mohist端的启动核心，启动命令中的`-jar`参数指向此文件。具体文件名以你实际使用的构建版本为准。 |
+
+:::warning 警告
+
+混合Forge模组和Bukkit插件同样存在稳定性风险，部分模组或插件可能无法正常工作，遇到问题请先排查兼容性。
+
+:::
 
 ## 如何在不同类型的服务端间互转存档
 

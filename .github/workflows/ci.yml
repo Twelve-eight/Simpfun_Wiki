@@ -1,0 +1,35 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    name: Build site
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci --no-audit --no-fund
+
+      - name: Build
+        # onBrokenLinks / onBrokenMarkdownLinks are set to "throw" in
+        # docusaurus.config.js, so the build itself acts as a link gate.
+        run: npm run build
+
+      - name: Upload build artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: build
